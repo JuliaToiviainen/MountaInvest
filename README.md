@@ -32,7 +32,13 @@ Where user can log in or create an account | See options and browse what you hav
 
 ##  Reflective summary
 
-During this project, I hoped to create a fully functioning app that provides a great user experience and meets my daily needs for tracking financial markets. I'm happy to say that I have achieved this goal, as the app can now fetch real-time data from Yahoo and allows me to monitor and manage my portfolio on my phone. In addition to the broad goals, I hoped to get proficient in XCode which I feel I did, I also got a very good overall picture of app development and feel confident in that area. I also learned a new programming language, Swift, and learned how to build a functional iOS app from scratch using XCode. I became more familiar with libraries and how to take advantage of them, for example, Firebase and Yahoo’s finance API. On the nontechnical side, I gained a deeper understanding of the essential parts of app development and how time-consuming they can be. I learned that good research is essential when planning, as it can help to avoid mistakes. Many times, I assumed I could make the code work in a way that turned out to be impossible, and after more careful research realized the approach, I should have taken. In general, I learned to be more critical of my skills and time and improved my problem solving skills. Lastly, I learned that I really enjoy building meaningful projects and realized that I’m very passionate about the areas that I study.
+During this project, I hoped to create a fully functioning app that provides a great user experience and meets my daily needs for tracking financial markets. I'm happy to say that I have achieved this goal, as the app can now fetch real-time data from Yahoo and allows me to monitor and manage my portfolio on my phone. This demonstrates my system level understanding of computers as I was able to connect multiple parts of computer system to a functional app.
+
+In addition to the broad goals, I hoped to get proficient in XCode which I did, I also got a very good overall picture of app development and feel confident in that area. I also learned a new programming language, Swift, and learned how to build a functional iOS app from scratch using XCode. I became more familiar with libraries and how to take advantage of them, for example, Firebase and Yahoo’s finance API. 
+
+On the nontechnical side, I've learned how to work in groups as well as individually. This project was big on the individual side and it gave me a deeper understanding of the essential parts of app development and how time-consuming they can be. I learned that good research is essential when planning, as it can help to avoid mistakes.
+
+In general, I learned to be more critical of my skills and time and improved my problem solving skills. Lastly, I learned that I really enjoy building meaningful projects and realized that I’m very passionate about the areas that I study.
 
 
 
