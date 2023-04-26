@@ -4,7 +4,9 @@
 MountaInvest is a stock portfolio app. 
 
 MountaInvest is an iOS app developed using XCode, that enables users to create a profile and save it to the Google Firebase Database. The app allows users to add stocks to their portfolio, including notes and target prices. Once the target prices are reached, users receive notifications. The app provides several views, including a home view, where users can log in or create an account. Additionally, the app features an intuitive interface, making it easy for users to manage their stock portfolios. No money transactions in the app. 
+
 <br>
+
 ## Features
 * User log in interface
 * Search any stocks (does this by fetching current stock data from Yahoo's Finance)
@@ -14,7 +16,11 @@ MountaInvest is an iOS app developed using XCode, that enables users to create a
 * Receive notifications once target prices gets reached
 * Settings with options to log out, delete user, contant via email form or reset password
 
+<br>
 
+## Design
+
+<br>
 
 Welcome |  Home | Portfolio | Settings | Graph
 |:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------:|:-------------------------:|
