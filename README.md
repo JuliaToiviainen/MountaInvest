@@ -1,7 +1,7 @@
 # MountaInvest
 ## Overview
 
-For my senior capstone project I created MountaInvest which is a stock portfolio app. 
+For my senior capstone project I created MountaInvest which is a stock portfolio app. The idea behind the app is that I wanted to create an app that will be easy to use and save the user valuable time as they don't need to constantly monitor the financials as the app does it for them.
 
 MountaInvest is an iOS app developed using XCode, that enables users to create a profile and save it to the Google Firebase Database. The app allows users to add stocks to their portfolio, including notes and target prices. Once the target prices are reached, users receive notifications. The app provides several views, including a home view, where users can log in or create an account. Additionally, the app features an intuitive interface, making it easy for users to manage their stock portfolios. No money transactions in the app. 
 
@@ -38,7 +38,7 @@ In addition to the broad goals, I hoped to get proficient in XCode which I did, 
 
 On the nontechnical side, I've learned how to work in groups as well as individually. This project was big on the individual side and it gave me a deeper understanding of the essential parts of app development and how time-consuming they can be. I learned that good research is essential when planning, as it can help to avoid mistakes.
 
-In general, I learned to be more critical of my skills and time and improved my problem solving skills. Lastly, I learned that I really enjoy building meaningful projects and realized that I’m very passionate about the areas that I study.
+In general, I learned to be more critical of my skills and time and improved my problem solving skills, in addition I got to challenge my creative side. Lastly, I learned that I really enjoy building meaningful projects and realized that I’m very passionate about the areas that I study.
 
 
 
